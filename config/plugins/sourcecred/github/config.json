@@ -1,1 +1,22 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+  "repositories": [
+    "raid-guild/RIPs",
+    "raid-guild/dot-org",
+    "raid-guild/daoshop",
+    "raid-guild/open-grants",
+    "raid-guild/guild-keeper",
+    "raid-guild/gitcoinco-web",
+    "raid-guild/commodo",
+    "raid-guild/commodo-landing-page",
+    "raid-guild/moloch-minion",
+    "raid-guild/escrow",
+    "raid-guild/handbook",
+    "raid-guild/HQ",
+    "raid-guild/wethwrapper-web",
+    "raid-guild/moloch-contract-extensions",
+    "raid-guild/moloch",
+    "raid-guild/ens-minion",
+    "raid-guild/araboard",
+    "raid-guild/moloch-dao-badges"
+  ]
+}
