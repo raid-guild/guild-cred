@@ -1,13 +1,13 @@
 {
-  "name": "template-instance",
+  "name": "raid-cred",
   "version": "0.1.0",
-  "description": "A template repo for creating a SourceCred instance",
-  "repository": "git@github.com:sourcecred/template-instance.git",
+  "description": "A SourceCred instance for Raid Guild",
+  "repository": "git@github.com:raid-guild/guild-cred.git",
   "author": "SourceCred Team <contact@sourcecred.io>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
-    "sourcecred": "0.7.0-beta-12"
+    "sourcecred": "^0.7.1"
   },
   "scripts": {
     "clean": "rimraf cache site",
